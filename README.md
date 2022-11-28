@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 
 ### Project
 1. 쑤니디저트카페 반응형웹
-2. 
+2. 동물병원 반응형 웹
+3. 식음료 반응형웹
+4. 헤로피커피 인터렉티브웹
+5. 헤로피커피 리모델링
+6. 리액트 - 마켓컬리
+7. 리액트 - 모방일앱 todolist
+8. 리액트 - 영화소개 홈페이지
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
