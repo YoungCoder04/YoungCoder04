@@ -24,4 +24,10 @@ Here are some ideas to get you started:
 안녕하세요:satisfied: 저는 프론트엔드 개발자가 되고 싶은 전태준입니다. <br>
 이건 제 포트폴리오 홈페이지이고 간단한 소개를 하자면 학원을 다니면서 여러가지 작업:file_folder:을 해둔 것을 올린 사이트입니다.
 
+## Skills
+
+### Project
+1. 쑤니디저트카페 반응형웹
+2. 
+
 ![footer](https://capsule-render.vercel.app/api?section=footer)
